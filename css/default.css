@@ -10,7 +10,7 @@ body{
 }
 
 aside{
-  width:200px;
+  width:30%;
   float:left;
   padding: 40px 20px;
   border: lightpink 1px solid;
@@ -20,7 +20,7 @@ aside{
 }
 
 #main{
-  width:500px;
+  width:70%;
   padding: 40px 80px;
   border: lightpink 1px solid;
   margin: 40px 20px;
