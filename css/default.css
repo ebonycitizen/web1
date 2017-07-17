@@ -7,17 +7,16 @@
 
 body{
   background-color: mistyrose;
-  background-image: url(../img/cat_cover.jpg);
-  background-repeat: no-repeat, no-repeat;
 }
 
 header{
-
+  background-image: url(../img/cat_cover.jpg);
+  background-repeat: no-repeat, no-repeat;
+  margin: 60px 20px;
 }
 
 aside{
   width:15%;
-  float:left;
   padding: 15px 20px;
   border: lightpink 1px solid;
   margin: 40px 20px;
@@ -37,5 +36,6 @@ aside{
 }
 
 footer{
+  margin: 60px 20px;
   clear:both;
 }
