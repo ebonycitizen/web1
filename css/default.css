@@ -67,6 +67,7 @@ aside{
   border: lightpink 1px solid;
   margin: 40px 30px;
   background-color:white;
+  color: lightgrey;
   border-radius: 10px;
   float:left;
 }
