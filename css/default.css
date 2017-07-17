@@ -52,7 +52,7 @@ header{
 }
 
 #sideBar ul{
-  list-style-type: none;
+  overflow: hidden;
 }
 
 #sideBar a{
