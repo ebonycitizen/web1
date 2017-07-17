@@ -82,6 +82,8 @@ p.button a{
   border-radius: 5px;
   text-decoration: none;
   padding: 2px 5px;
+  display:inline-block;
+  vertical-align: middle;
 }
 
 p.button a:hover{
