@@ -12,13 +12,20 @@ body{
 aside{
   width:200px;
   float:left;
+  padding: 40px 20px;
+  border: lightpink 1px solid;
+  margin: 40px 20px;
   background-color:white;
+  float:right;
 }
 
 #main{
   width:500px;
-  float:right;
-  background-color:grey;
+  padding: 40px 80px;
+  border: lightpink 1px solid;
+  margin: 40px 20px;
+  background-color:white;
+  float:left;
 }
 
 footer{
