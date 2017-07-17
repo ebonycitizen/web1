@@ -87,8 +87,8 @@ dt{
   font-weight: bold;
 }
 
-.button{
-  margin:0 auto;
+.button div{
+  text-align: center;
 }
 
 .button a{
