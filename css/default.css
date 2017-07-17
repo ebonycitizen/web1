@@ -9,6 +9,10 @@ body{
   background-color: mistyrose;
 }
 
+h1, h2, p{
+  font-family: cursive;
+}
+
 header{
   background-image: url(../img/cat_cover.jpg);
   background-repeat: no-repeat, no-repeat;
