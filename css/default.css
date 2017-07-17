@@ -74,7 +74,7 @@ aside{
   background-color:white;
   color: darkgray;
   border-radius: 10px;
-  float: left;
+  float: right;
 }
 
 .articleStyle{
@@ -120,7 +120,7 @@ p.button a{
   background-color:white;
   color: darkgray;
   border-radius: 10px;
-  float: left;
+  float: right;
 }
 
 footer{
