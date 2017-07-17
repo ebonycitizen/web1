@@ -52,7 +52,7 @@ header{
 }
 
 #sideBar a{
-  display: block;
+  list-style: none;
   padding: 10px 0;
   text-decoration: none;
   color: darkgray;
