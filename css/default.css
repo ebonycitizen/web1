@@ -7,11 +7,12 @@
 
 body{
   background-color: mistyrose;
+  background-image: url(../img/cat_cover.jpg);
+  background-repeat: no-repeat, no-repeat;
 }
 
 header{
-  background-image: url(../img/cat_cover.jpg);
-  background-repeat: no-repeat, no-repeat;
+
 }
 
 aside{
