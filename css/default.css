@@ -98,8 +98,6 @@ p.button a{
   border-radius: 5px;
   text-decoration: none;
   padding: 2px 8px;
-  display:inline-block;
-  margin: 0 10px;
 }
 
 p.button a:hover{
