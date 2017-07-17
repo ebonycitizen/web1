@@ -71,6 +71,28 @@ dt{
   font-weight: bold;
 }
 
+p.button{
+  margin: 2px 5px;
+}
+
+p.button a{
+  background-color: palevioletred;
+  border: lightpink 1px solid;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 2px 5px;
+}
+
+p.button a:hover{
+  background-color: white;
+  border: lightpink 1px solid;
+  color: palevioletred;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 2px 5px;
+}
+
 #main{
   width:50%;
   padding: 40px 80px;
