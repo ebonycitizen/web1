@@ -88,7 +88,7 @@ dt{
 }
 
 p.button {
-  margin: 0 45%;
+  margin: 0 40%;
 }
 
 p.button a{
@@ -99,7 +99,7 @@ p.button a{
   text-decoration: none;
   disply: inline-block;
   padding: 2px 8px;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 
 .button a:hover{
@@ -109,7 +109,7 @@ p.button a{
   border-radius: 5px;
   text-decoration: none;
   padding: 2px 8px;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 
 #main{
