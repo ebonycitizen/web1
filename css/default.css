@@ -1,1 +1,24 @@
+@charset "utf-8";
 
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color: mistyrose;
+}
+
+aside{
+  width:200px;
+  float:left;
+}
+
+#main{
+  width:500px;
+  float:right;
+}
+
+footer{
+  clear:both;
+}
