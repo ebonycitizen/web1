@@ -52,7 +52,7 @@ header{
 }
 
 #sideBar ul{
-  list-style: none;
+  list-style-type: none;
 }
 
 #sideBar a{
@@ -88,6 +88,7 @@ dt{
 }
 
 p.button{
+  marign: 0 40%;
 }
 
 p.button a{
