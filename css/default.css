@@ -22,6 +22,35 @@ header{
   color: peachpuff;
 }
 
+#gnav ul {
+  overflow: hidden;
+}
+
+#gnav a{
+  display: block;
+  padding: 10px 0;
+  text-algin: center;
+  text-decoration: none;
+  background: lightcoral;
+  color: black;
+}
+
+#gnav a:hover{
+  background: crimson;
+  color: white;
+}
+
+#gnav li{
+  float: left;
+  width: 156px;
+  border-right: white 1px solid;
+  list-style-type: none;
+}
+
+#gnav li:first-child{
+  border-left: white 1px solid;
+}
+
 aside{
   width:15%;
   padding: 15px 20px;
