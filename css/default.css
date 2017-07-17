@@ -51,8 +51,11 @@ header{
   border-left: white 1px solid;
 }
 
-#sideBar a{
+#sideBar ul{
   list-style: none;
+}
+
+#sideBar a{
   padding: 2px 2px;
   text-decoration: none;
   color: darkgray;
