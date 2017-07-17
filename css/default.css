@@ -83,8 +83,6 @@ p.button a{
   text-decoration: none;
   padding: 2px 5px;
   display:inline-block;
-  vertical-align: middle;
-  margin-right: 20px;
 }
 
 p.button a:hover{
