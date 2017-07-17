@@ -14,8 +14,9 @@ h1, h2, p{
 }
 
 header{
+  background-image:url(../img/cat_over.jpg);
   background-repeat: no-repeat, no-repeat;
-  margin: 60px 20px;
+  height: 200px;
 }
 
 aside{
