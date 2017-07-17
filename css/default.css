@@ -17,7 +17,7 @@ header{
   background-image:url(../img/cat_cover1.jpg);
   background-repeat: no-repeat, no-repeat;
   height: 200px;
-  font-align: center;
+  padding: 30px 15px;
   font-color: white;
 }
 
