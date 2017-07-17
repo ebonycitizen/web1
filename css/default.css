@@ -87,17 +87,19 @@ dt{
   font-weight: bold;
 }
 
-.button div{
-  text-align: center;
+p.button {
+  margin: 0 auto;
 }
 
-.button a{
+p.button a{
   background-color: palevioletred;
   border: lightpink 1px solid;
   color: white;
   border-radius: 5px;
   text-decoration: none;
+  disply: inline-block;
   padding: 2px 8px;
+  margin: 0 20px;
 }
 
 .button a:hover{
@@ -106,7 +108,8 @@ dt{
   color: palevioletred;
   border-radius: 5px;
   text-decoration: none;
-  padding: 2px 5px;
+  padding: 2px 8px;
+  margin: 0 20px;
 }
 
 #main{
