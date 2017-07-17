@@ -7,7 +7,7 @@
 
 body{
   background-color: mistyrose;
-  width: 1345px;
+  width: 1348px;
 }
 
 h1, h2, h3, h4, h5, h6, li, p{
@@ -43,7 +43,7 @@ header{
 
 #gnav li{
   float: left;
-  width: 19.9%;
+  width: 20%;
   border-right: white 1px solid;
   list-style-type: none;
 }
