@@ -83,7 +83,7 @@ aside{
   width = 80%;
 }
 
-dt{
+dt, dd{
   float: left;
   font-weight: bold;
 }
