@@ -51,8 +51,8 @@ header{
   border-left: white 1px solid;
 }
 
-#sideBar ul{
-  overflow: hidden;
+#sideBar li{
+  list-style-type: none;
 }
 
 #sideBar a{
