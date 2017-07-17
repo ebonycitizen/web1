@@ -51,12 +51,24 @@ header{
   border-left: white 1px solid;
 }
 
+#sideBar a{
+  display: block;
+  padding: 10px 0;
+  text-decoration: none;
+  color: darkgray;
+}
+
+#sideBar a:hover{
+  color: dimgray;
+}
+
 aside{
   width: 15%;
   padding: 15px 20px;
   border: lightpink 1px solid;
   margin: 40px 20px;
   background-color:white;
+  color: darkgray;
   border-radius: 10px;
   float:right;
 }
