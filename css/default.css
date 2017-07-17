@@ -16,6 +16,7 @@ aside{
   border: lightpink 1px solid;
   margin: 40px 20px;
   background-color:white;
+  border-radius: 50px;
   float:right;
 }
 
@@ -25,6 +26,7 @@ aside{
   border: lightpink 1px solid;
   margin: 40px 30px;
   background-color:white;
+  border-radius: 50px;
   float:left;
 }
 
