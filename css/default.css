@@ -67,7 +67,7 @@ aside{
 }
 
 dt{
-  clear: left;
+  float: right;
   font-wight: bold;
 }
 
