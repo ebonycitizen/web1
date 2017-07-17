@@ -65,6 +65,16 @@ aside{
   padding : 40px 0;
 }
 
+.explanation{
+  float: left;
+}
+
+dt{
+  clear: left;
+  float: left;
+  font-wight: bold;
+}
+
 #main{
   width:50%;
   padding: 40px 80px;
