@@ -61,6 +61,10 @@ aside{
   float:right;
 }
 
+.articleStyle{
+  padding : 20px 0;
+}
+
 #main{
   width:50%;
   padding: 40px 80px;
