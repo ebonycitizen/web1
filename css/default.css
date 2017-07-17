@@ -42,7 +42,7 @@ header{
 
 #gnav li{
   float: left;
-  width: 18%;
+  width: 20%;
   border-right: white 1px solid;
   list-style-type: none;
 }
