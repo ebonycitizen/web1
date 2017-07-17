@@ -60,6 +60,7 @@ header{
 
 #sideBar a:hover{
   color: dimgray;
+  text-decoration: underline;
 }
 
 aside{
