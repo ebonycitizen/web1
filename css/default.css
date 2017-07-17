@@ -87,11 +87,11 @@ dt{
   font-weight: bold;
 }
 
-p.button{
+.button{
   margin:0 auto;
 }
 
-p.button a{
+.button a{
   background-color: palevioletred;
   border: lightpink 1px solid;
   color: white;
@@ -100,7 +100,7 @@ p.button a{
   padding: 2px 8px;
 }
 
-p.button a:hover{
+.button a:hover{
   background-color: white;
   border: lightpink 1px solid;
   color: palevioletred;
