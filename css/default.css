@@ -82,6 +82,9 @@ aside{
   width = 80%;
 }
 
+p.break{
+  word-wrap: break-all;
+
 dt{
   margin: 5px auto;
 }
