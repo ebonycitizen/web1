@@ -83,10 +83,14 @@ aside{
 }
 
 dt{
+  float: left;
   font-weight: bold;
   margin: 5px auto;
 }
 
+dd{
+  float: left;
+}
 
 p.button {
   margin: 0 38%;
